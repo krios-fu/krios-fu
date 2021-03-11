@@ -18,7 +18,7 @@ int		main(int argc, char **argv)
 
     me.name = "Kevin Amin";
     me.lastName = "Rios Fuentes";
-    me.profession = "Estudiante de programación en 42 madrid fundacion Telefonica";
+    me.profession = "estudiante de programación en 42 Madrid fundacion Telefonica";
     me.from = "Colombia";
     me.live = "España";
     me.age = 28;
@@ -34,7 +34,7 @@ int		main(int argc, char **argv)
 c1r5s6% gcc profile.c -o profile
 c1r5s6% ./profile 
 👨 Yo soy Kevin Amin Rios Fuentes
-💻 Actualmente soy Estudiante de programación en 42 madrid fundacion Telefonica
+💻 Actualmente soy estudiante de programación en 42 Madrid fundacion Telefonica
 🇨🇴 Soy de Colombia
 🇪🇸 Vivo actualmente en: España
 📆 Tengo 28 años 
