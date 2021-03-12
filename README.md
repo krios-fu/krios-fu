@@ -12,7 +12,7 @@ typedef struct s_profile
     int     age;
 }           t_profile;
 
-int		main(int argc, char **argv)
+int		main()
 {
     t_profile me;
 
