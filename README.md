@@ -39,4 +39,5 @@ c1r5s6% ./profile
 🇪🇸 Vivo actualmente en: España
 📆 Tengo 28 años 
 ```
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=krios-fu&label=Profile%20views&color=0e75b6&style=flat" alt="abello-r" /> </p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krios-fu&theme=tokyonight)
