@@ -39,3 +39,4 @@ c1r5s6% ./profile
 🇪🇸 Vivo actualmente en: España
 📆 Tengo 28 años 
 ```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krios-fu&theme=tokyonight)
