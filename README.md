@@ -16,9 +16,9 @@ int		main(int argc, char **argv)
 {
     t_profile me;
 
-    me.name = "Kevin Amin";
-    me.lastName = "Rios Fuentes";
-    me.profession = "estudiante de programación en 42 Madrid fundacion Telefonica";
+    me.name = "Kevin Amín";
+    me.lastName = "Ríos Fuentes";
+    me.profession = "estudiante de programación en 42 Madrid fundación Telefónica";
     me.from = "Colombia";
     me.live = "España";
     me.age = 28;
@@ -33,8 +33,8 @@ int		main(int argc, char **argv)
 ```sh
 c1r5s6% gcc profile.c -o profile
 c1r5s6% ./profile 
-👨 Yo soy Kevin Amin Rios Fuentes
-💻 Actualmente soy estudiante de programación en 42 Madrid fundacion Telefonica
+👨 Yo soy Kevin Amín Ríos Fuentes
+💻 Actualmente soy estudiante de programación en 42 Madrid fundación Telefónica
 🇨🇴 Soy de Colombia
 🇪🇸 Vivo actualmente en: España
 📆 Tengo 28 años 
